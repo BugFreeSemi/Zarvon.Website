@@ -17,7 +17,7 @@ export async function POST(request: Request) {
 
     await resend.emails.send({
       from: "ZARVON Website <onboarding@resend.dev>",
-      to: ["awansaima234@gmail.com"],
+      to: ["info@zarvonglobal.com"],
       subject: `New Website Enquiry from ${name}`,
       replyTo: email,
       text: `

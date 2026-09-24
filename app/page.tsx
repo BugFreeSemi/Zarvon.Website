@@ -791,6 +791,7 @@ export default function Home() {
     <div className="footer-column footer-contact">
 
       <h4>Contact</h4>
+      <p>+966 58 124 3622</p>
 
       <p>
         Kampala, Uganda
